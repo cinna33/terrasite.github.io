@@ -27,11 +27,11 @@ allCross.forEach(element =>{
         const currentChoice = this.parentNode.parentNode.childNodes[3];
 
         if(this.src.includes('Plus')){
-            this.src ='/Images/Section 7/Minus.svg';
+            this.src ='Images/Section 7/Minus.svg';
             gsap.to(currentChoice, {duration: 0.2, height: height + 20, opacity : 1, padding: '1rem 0'})
 
         } else if (this.src.includes('Minus')){
-            this.src ='/Images/Section 7/Plus.svg';
+            this.src ='Images/Section 7/Plus.svg';
             gsap.to(currentChoice, {duration: 0.2, height:0, opacity : 0, padding: '0'})
         }
     })
