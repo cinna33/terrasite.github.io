@@ -8,7 +8,7 @@
 /*Import internes*/
 @import 'CSS/COMPONENTS/button.css';
 @import 'CSS/COMPONENTS/style-guides.css';
-@import 'CSS/COMPONENTS/navbar.css';
+@import '/CSS/COMPONENTS/navbar.css';
 
 
 *{
