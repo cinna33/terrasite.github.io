@@ -543,7 +543,7 @@ section, footer{
 }
 
 .one_s6{
-    background-image: url("/Images/Section\ 6/img 1 s6.jpg");
+    background-image: url("Images/Section\ 6/img 1 s6.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -600,7 +600,7 @@ section, footer{
 }
 
 .second{
-    background-image: url("/Images/Section\ 6/img 3 s6.jpg");
+    background-image: url("Images/Section\ 6/img 3 s6.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
