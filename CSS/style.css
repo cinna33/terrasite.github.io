@@ -469,7 +469,7 @@ section, footer{
 .section_5{
     height: 50vh;
     position: relative;
-    background-image: url("/Images/Section\ 5/img s5.jpg");
+    background-image: url("Images/Section 5/img s5.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
