@@ -1,0 +1,92 @@
+h1{
+    font-size: 8rem;
+    font-family: 'Playfair Display', serif;
+    font-weight: 100;
+}
+
+h2{
+    font-size: 2.5rem;
+    font-family: 'Playfair Display', serif;
+}
+
+h3{
+    font-size: 2.3rem;
+    font-family: 'Playfair Display', serif;
+}
+
+h4{
+    font-size: 1.5rem;
+    font-family: 'DM Sans';
+    font-weight: 600;
+}
+
+h5{
+    font-size: 1.5rem;
+    font-family: 'DM Sans';
+}
+
+h6{
+    font-size: 1.3rem;
+    font-family: 'DM Sans';
+}
+
+a{
+    font-size: 1rem;
+    font-family: 'DM Sans';
+    text-decoration: none;
+    list-style: none;
+    color: #222;
+    font-weight: 700;
+    transition: all ease-in-out 300ms;
+    scroll-behavior: smooth;
+}
+
+a:hover{
+    color: #56704E;
+    transition: 300ms;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+p{
+    font-size: 1.2rem;
+    font-family: 'DM Sans';
+    font-weight: 500;
+    line-height: 2rem;
+    padding: 0;
+    margin: 0;
+
+}
+
+
+@media (max-width: 1300px){
+    h1{
+        font-size: 5.5rem;
+    }
+}
+
+
+@media (max-width: 950px){
+    h1{
+        font-size: 4rem;
+    }
+
+    h2{
+        font-size: 2rem;
+    }
+
+    p{
+        font-size: 1rem;
+    }
+}
+
+
+@media (max-width: 700px){
+    h1{
+        font-size: 3rem;
+    }
+    h2{
+        font-size: 1.4rem;
+    }
+}
